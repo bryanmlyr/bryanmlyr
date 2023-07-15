@@ -10,7 +10,7 @@ I have experience working with a variety of languages and frameworks, including:
 - Akka
 - Kafka
 - Spark
-...
+- ...
 
 I am a fast learner and thrive in environments where I can constantly expand my knowledge and skills. 📈
 
