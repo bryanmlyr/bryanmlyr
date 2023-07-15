@@ -18,7 +18,7 @@ In my current role, I am utilizing my expertise in the above technologies to dev
 
 I am always looking for new challenges and opportunities to learn and grow as a software/data engineer. 🤓
 
-You can contact me on LinkedIn at https://www.linkedin.com/in/bryanmlyr/ or via email at bryan.maloyer@gmail.com. I am always open to connecting with other professionals in the industry and discussing potential opportunities. Feel free to reach out!
+You can contact me on [LinkedIn](https://www.linkedin.com/in/bryanmlyr/). I am always open to connecting with other professionals in the industry and discussing potential opportunities. Feel free to reach out!
 
 <!--
 
