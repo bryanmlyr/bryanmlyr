@@ -3,11 +3,14 @@
 I am a passionate **software/data engineer** from France 🇫🇷 with a strong passion for learning new technologies and solving complex problems. 👨🏻‍💻
 
 I have experience working with a variety of languages and frameworks, including:
+- JavaScript / TypeScript
+- React
 - Node.js
 - Scala
 - Akka
 - Kafka
 - Spark
+...
 
 I am a fast learner and thrive in environments where I can constantly expand my knowledge and skills. 📈
 
