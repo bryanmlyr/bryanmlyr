@@ -2,19 +2,9 @@
 
 I am a passionate **software/data engineer** from France 🇫🇷 with a strong passion for learning new technologies and solving complex problems. 👨🏻‍💻
 
-I have experience working with a variety of languages and frameworks, including:
-- JavaScript / TypeScript
-- React
-- Node.js
-- Scala
-- Akka
-- Kafka
-- Spark
-- ...
-
 I am a fast learner and thrive in environments where I can constantly expand my knowledge and skills. 📈
 
-In my current role, I am utilizing my expertise in the above technologies to develop scalable and reliable applications and work on data pipelines and data processing tasks. 🚀
+In my current role, I am utilizing my expertise in the above technologies to develop scalable and reliable applications. 🚀
 
 I am always looking for new challenges and opportunities to learn and grow as a software/data engineer. 🤓
 
